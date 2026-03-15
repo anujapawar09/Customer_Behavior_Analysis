@@ -40,10 +40,13 @@ The project follows an **end-to-end data analytics workflow** including data cle
 
 ## Key Insights
 
-* Certain product categories generate higher revenue
-* Express shipping orders tend to have higher purchase values
-* A small group of customers contributes significantly to overall revenue
-* Seasonal trends influence customer purchasing behavior
+• Clothing category generates the highest revenue among all product categories.
+
+• Young adult customers contribute the largest share of purchases.
+
+• Express shipping shows higher average purchase amounts.
+
+• A small segment of customers contributes significantly to total revenue.
 
 ## Skills Demonstrated
 
