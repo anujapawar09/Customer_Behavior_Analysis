@@ -5,7 +5,6 @@
 This project analyzes customer shopping behavior using transactional data to uncover insights about purchasing patterns, revenue trends, and product performance.
 The project follows an **end-to-end data analytics workflow** including data cleaning in Python, SQL-based analysis, and visualization through a Power BI dashboard.
 
-## Dashboard Preview
 
 ## Dashboard Preview
 
