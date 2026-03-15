@@ -7,7 +7,9 @@ The project follows an **end-to-end data analytics workflow** including data cle
 
 ## Dashboard Preview
 
-![Customer_Behavior_Dashboard](dashboard.png)
+## Dashboard Preview
+
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 ## Tools & Technologies
 
